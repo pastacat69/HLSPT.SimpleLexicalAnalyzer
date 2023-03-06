@@ -1,0 +1,14 @@
+D:\projects\HLSPT\HLSPT.SimpleLexicalAnalyzer\obj\Debug\netcoreapp3.1\HLSPT.SimpleLexicalAnalyzer.csproj.AssemblyReference.cache
+D:\projects\HLSPT\HLSPT.SimpleLexicalAnalyzer\obj\Debug\netcoreapp3.1\HLSPT.SimpleLexicalAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\HLSPT\HLSPT.SimpleLexicalAnalyzer\obj\Debug\netcoreapp3.1\HLSPT.SimpleLexicalAnalyzer.AssemblyInfoInputs.cache
+D:\projects\HLSPT\HLSPT.SimpleLexicalAnalyzer\obj\Debug\netcoreapp3.1\HLSPT.SimpleLexicalAnalyzer.AssemblyInfo.cs
+D:\projects\HLSPT\HLSPT.SimpleLexicalAnalyzer\obj\Debug\netcoreapp3.1\HLSPT.SimpleLexicalAnalyzer.csproj.CoreCompileInputs.cache
+D:\projects\HLSPT\HLSPT.SimpleLexicalAnalyzer\bin\Debug\netcoreapp3.1\HLSPT.SimpleLexicalAnalyzer.exe
+D:\projects\HLSPT\HLSPT.SimpleLexicalAnalyzer\bin\Debug\netcoreapp3.1\HLSPT.SimpleLexicalAnalyzer.deps.json
+D:\projects\HLSPT\HLSPT.SimpleLexicalAnalyzer\bin\Debug\netcoreapp3.1\HLSPT.SimpleLexicalAnalyzer.runtimeconfig.json
+D:\projects\HLSPT\HLSPT.SimpleLexicalAnalyzer\bin\Debug\netcoreapp3.1\HLSPT.SimpleLexicalAnalyzer.runtimeconfig.dev.json
+D:\projects\HLSPT\HLSPT.SimpleLexicalAnalyzer\bin\Debug\netcoreapp3.1\HLSPT.SimpleLexicalAnalyzer.dll
+D:\projects\HLSPT\HLSPT.SimpleLexicalAnalyzer\bin\Debug\netcoreapp3.1\HLSPT.SimpleLexicalAnalyzer.pdb
+D:\projects\HLSPT\HLSPT.SimpleLexicalAnalyzer\obj\Debug\netcoreapp3.1\HLSPT.SimpleLexicalAnalyzer.dll
+D:\projects\HLSPT\HLSPT.SimpleLexicalAnalyzer\obj\Debug\netcoreapp3.1\HLSPT.SimpleLexicalAnalyzer.pdb
+D:\projects\HLSPT\HLSPT.SimpleLexicalAnalyzer\obj\Debug\netcoreapp3.1\HLSPT.SimpleLexicalAnalyzer.genruntimeconfig.cache

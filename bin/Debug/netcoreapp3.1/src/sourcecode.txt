@@ -1,0 +1,7 @@
+let asad23 = 10;
+
+if( asd23 != 0){
+	asd23++;
+}else{
+	--asd23;
+}
